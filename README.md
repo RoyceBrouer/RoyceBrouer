@@ -1,9 +1,10 @@
-# Hi Github community, my name is Royce and I am new to the world of coding!
+# Hi Github community, my name is Royce and I am new to the world of coding! I am a web development student!
+
 
 ![signal-2023-07-24-220939_013](https://github.com/RoyceBrouer/my-Profile/assets/141549453/438150d9-593b-433e-82a3-637fc478424d)
 
 ### My background:
-I have a degree in cultural studies with a focus on arts and philosophy.
+I have a degree in cultural studies with a focus on arts and philosophy - so rather an alien to digits and numbers
 
 ### I have professional experience in...
 - collective performance and theatre (directional assistance)
