@@ -1,7 +1,6 @@
 # Hi Github community, my name is Royce and I am new to the world of coding! I am a web development student!
 
-
-![signal-2023-07-24-220939_013](https://github.com/RoyceBrouer/my-Profile/assets/141549453/438150d9-593b-433e-82a3-637fc478424d)
+![image](https://github.com/RoyceBrouer/RoyceBrouer/assets/141549453/3bb80961-b7fa-4c51-9a32-9d575baf9751)
 
 ### My background:
 I have a degree in cultural studies with a focus on arts and philosophy - so rather an alien to digits and numbers
